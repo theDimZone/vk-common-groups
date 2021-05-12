@@ -1,7 +1,7 @@
 # vk-common-groups
 
-A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
-you.
+* TODO: interceptors for vk api call
+* TODO: fetch more than 1000 groups for each user
 
 ## Getting Started
 
