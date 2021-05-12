@@ -24,9 +24,9 @@
  {:app {:target     :browser
         :output-dir "resources/public/js/compiled"
         :asset-path "/js/compiled"
-        :modules {:app 
+        :modules {:app
                   {:init-fn vk-common-groups.core/init}}
-        :devtools {:preloads [day8.re-frame-10x.preload]}
+        ;:devtools  {:preloads [day8.re-frame-10x.preload]}
         :dev {:compiler-options
               {:closure-defines
                {re-frame.trace.trace-enabled? true
