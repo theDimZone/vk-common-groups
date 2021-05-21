@@ -2,6 +2,7 @@
 
 * TODO: interceptors for vk api call
 * TODO: fetch more than 1000 groups for each user
+* TODO: env config for vk client id, redirect uri, etc
 
 ## Getting Started
 
